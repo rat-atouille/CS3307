@@ -1,0 +1,10 @@
+debug/PaintApplication.o
+debug/drawingcommand.o
+debug/drawingtools.o
+debug/layer.o
+debug/layeredcanvas.o
+debug/layermanagerdialog.o
+debug/main.o
+debug/moc_PaintApplication.o
+debug/moc_layeredcanvas.o
+debug/moc_layermanagerdialog.o

@@ -1,0 +1,10 @@
+release/PaintApplication.o
+release/drawingcommand.o
+release/drawingtools.o
+release/layer.o
+release/layeredcanvas.o
+release/layermanagerdialog.o
+release/main.o
+release/moc_PaintApplication.o
+release/moc_layeredcanvas.o
+release/moc_layermanagerdialog.o
