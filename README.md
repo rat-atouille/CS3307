@@ -1,4 +1,4 @@
-# Paint Software - Digital Art Creation Tool
+# PaintTool - Digital Art Creation Tool
 
 ## About This Project
 This project allows users to create digital art with a variety of tools, including brush pens, colors, erasers, and canvas layers. Users can create, modify, and manage layers, save and load projects, and export their creations as PNG or JPEG files.
@@ -36,7 +36,7 @@ Before you can build and run the project, ensure you have the following installe
 ### Clone the Repository:
 To get started, clone the repository to your local machine in your terminal (bash).
 ```
-git clone [https://github.com/UWO-CS-3307/project-deliverable-2-hailey-s-painting-software](https://github.com/rat-atouille/Paint-Tool).git
+git clone https://github.com/rat-atouille/Paint-Tool.git
 cd Paint-tool
 ```
 ## Build the Project:
