@@ -36,8 +36,8 @@ Before you can build and run the project, ensure you have the following installe
 ### Clone the Repository:
 To get started, clone the repository to your local machine in your terminal (bash).
 ```
-git clone https://github.com/UWO-CS-3307/project-deliverable-2-hailey-s-painting-software.git
-cd paint-software
+git clone [https://github.com/UWO-CS-3307/project-deliverable-2-hailey-s-painting-software](https://github.com/rat-atouille/Paint-Tool).git
+cd Paint-tool
 ```
 ## Build the Project:
 1. Install Dependencies: Ensure that you have installed Qt and the necessary development tools on your machine.
@@ -51,7 +51,7 @@ cd paint-software
   ```
   make
   ```
-If there is an issue with installation, you can pull the code files in this [repo](https://github.com/UWO-CS-3307/project-deliverable-2-hailey-s-painting-software)'s master branch and put the files in a new project folder and run manually.
+If there is an issue with installation, you can pull the code files in this [repo](https://github.com/rat-atouille/Paint-Tool)'s master branch and put the files in a new project folder and run manually.
 
 ## UI Overview: ##
 - The main window contains the canvas where you can draw your artwork.
